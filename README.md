@@ -1,5 +1,5 @@
 ## Jonathan David Phillips
-Born May 28, 1979, Illinois, USA.
+Born May 28, 1979, Effingham, Illinois, USA.
 
 Live &amp; Works in Saint Louis & Hong Kong.
 
