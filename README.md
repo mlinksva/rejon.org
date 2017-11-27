@@ -1,4 +1,4 @@
-## Jonathan David Phillips CV
+## Jonathan David Phillips
 Born May 28, 1979, Illinois, USA.
 
 Lives Saint Louis & Hong Kong.
