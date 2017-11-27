@@ -1,7 +1,13 @@
-## Jonathan David Phillips
-Born May 28, 1979, Effingham, Illinois, USA.
+## About Jon Phillips
 
-Live &amp; Works in Saint Louis & Hong Kong.
+I'm the Director of <a href="http://fabricatorz.com">Fabricatorz</a>. I'm on the
+board for <a href="http://newpalmyra.org">New Palmyra</a>. 
+
+### Facts
+
+- Full name: Jonathan David Phillips.
+- Born May 28, 1979, Effingham, Illinois, USA.
+- Live &amp; Works in Saint Louis & Hong Kong.
 
 ### Bio
 
