@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 
 title: Jon Phillips
-description: Jon Phillips Biography and CV.
+# description: Jon Phillips Biography and CV.
 email: jon@rejon.org
 
 show_downloads: ["false"]
