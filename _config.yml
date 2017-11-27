@@ -5,13 +5,14 @@ title: Jon Phillips
 description: Jon Phillips Biography and CV.
 email: jon@rejon.org
 
-show_downloads: ["true"]
+show_downloads: ["false"]
+show_social: ["true"]
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rejon
-github_username:  rejon
+twitter_url: https://twitter.com/rejon
+instagram_url: https://instagram.com/kidproto
 
 # mine need to hook into
 history_url: http://web.archive.org/web/*/rejon.org
