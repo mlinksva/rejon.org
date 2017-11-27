@@ -1,7 +1,9 @@
-## rejon.org
+## Jon Phillips
 
-Simple bio site :)
+Born May 28, 1979, Illinois, USA.
 
-### Support or Contact
+Lives Saint Louis & Hong Kong.
 
-Feel free to contact [jon@rejon.org](mailto:jon@rejon.org).
+### Contact
+
+- [jon@rejon.org](mailto:jon@rejon.org).
