@@ -1,1 +1,32 @@
 theme: jekyll-theme-minimal
+
+
+title: Jon Phillips
+description: Jon Phillips Biography and CV.
+email: jon@rejon.org
+
+show_downloads: ["true"]
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rejon
+github_username:  rejon
+
+# mine need to hook into
+history_url: http://web.archive.org/web/*/rejon.org
+openclipart_username: rejon
+fontlibrary_username: rejon
+
+# permalink: /:year/:month/:day/:title/
+
+google_analytics: UA-90632540-1
+
+# Build settings
+#markdown: kramdown
+#theme: minima
+#gems:
+#  - jekyll-feed
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
