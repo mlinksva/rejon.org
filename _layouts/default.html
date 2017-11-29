@@ -23,7 +23,7 @@
           <ul>
             <li><a href="{{ site.twitter_url }}">Read <strong>Twitter</strong></a></li>
             <li><a href="{{ site.instagram_url }}">View <strong>Instagram</strong></a></li>
-            <li><a href="{{ site.history_url }}">Find <strong>History</strong></a></li>
+            <li><a href="mailto:{{ site.email }}">Email <strong>{{ site.email }}</strong></a></li>
           </ul>
         {% endif %}
       </header>
@@ -32,11 +32,14 @@
       {{ content }}
 
       </section>
+
       <footer>
+        <a href=""><img src="https://openclipart.org/image/32px/svg_to_png/201659/REJON-Pxlpeeps-Avatar.png" alt="pxlpeeps rejon" /></a>
         {% if site.github.is_project_page %}
-        <p><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> <a href="https://github.com/rejon/rejon.org/blob/master/LICENSE">by</a> <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p id="github-notice"><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small id="copyright">&copy; Jon Phillips.</small> <small id="history"><a href="{{ site.history_url }}">History</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
