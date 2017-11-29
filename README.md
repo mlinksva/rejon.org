@@ -3,7 +3,7 @@
 I'm the Director of <a href="http://fabricatorz.com">Fabricatorz</a>. I'm on the
 board for <a href="http://newpalmyra.org">New Palmyra</a>. 
 
-I'm known for my early passion for Open Source Software. My first Open Source Project is the drawing app, <a href="http://inkscape.org">Inkscape</a>. 
+I'm known for my early passion for Open Source Software. My first Open Source Project is the drawing app, <a href="http://inkscape.org">Inkscape</a>. I created and still maintain <a href="https://openclipart.org">Openclipart</a> and <a href="https://fontlibrary.org">Font Library</a>.
 
 I like to cycle with my friends around the world.
 
