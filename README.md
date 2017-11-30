@@ -17,3 +17,4 @@ I like to cycle with my friends around the world.
 
 Jon Phillips is Director of Fabricatorz, a global design & art technology studio. His work with Bassel Khartabil, Joi Ito, Lawrence Lessig, and Ai Weiwei is known. His projects have been exhibited at the Venice Biennale, SFMoMa, ICA London, OCAT Shenzhen. They have been featured in Wired, Washington Post, BBC, Al Jazeera, CNN and the Guardian. Phillips is on the board for New Palmyra. He lives in Saint Louis & Hong Kong and is working on the blockchain (more soon :).
 
+
